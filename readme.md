@@ -13,7 +13,7 @@ We provide quick inference code to validate and visualize our results on [Human3
    ```bash inference.sh```\
   if 'visualize' is set to 1, it means the visualization is activated, and you will get an additional video file in the root path which records all the rendering frames. Otherwise, it will only print the P1/P2 result on the screen.\
 [figure](./inference/temp.png)\
-We will soon update this repository with the training code.
+We will update this repository with the training code.
 
 
 ```
