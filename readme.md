@@ -1,7 +1,7 @@
 # HEMlets Pose: Learning Part-Centric Heatmap Triplets for Accurate 3D Human Pose Estimation
 ## Kun Zhou, Xiaoguang Han, Nianjuan Jiang, Kui Jia, Jiangbo Lu
 
-This is the office implement of **HEMlets PoSh: Learning Part-Centric Heatmap Triplets for 3D Human Pose and Shape Estimation**. Please follow the links to read the [paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhou_HEMlets_Pose_Learning_Part-Centric_Heatmap_Triplets_for_Accurate_3D_Human_ICCV_2019_paper.pdf) and visit the corresponding [project page](https://sites.google.com/site/hemletspose/).
+This is the office implementation of **HEMlets PoSh: Learning Part-Centric Heatmap Triplets for 3D Human Pose and Shape Estimation**. Please follow the links to read the [paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhou_HEMlets_Pose_Learning_Part-Centric_Heatmap_Triplets_for_Accurate_3D_Human_ICCV_2019_paper.pdf) and visit the corresponding [project page](https://sites.google.com/site/hemletspose/).
 
 We provide quick inference code to validate and visualize our results on [Human3.6M](http://vision.imar.ro/human3.6m/description.php). Brief runing instructions are given below.
 1. Pre installation\
@@ -13,7 +13,7 @@ We provide quick inference code to validate and visualize our results on [Human3
    ```bash inference.sh```\
   if 'visualize' is set to 1, it means the visualization is activated, and you will get an additional video file in the root path which records all the rendering frames. Otherwise, it will only print the P1/P2 result on the screen.\
 [figure](./inference/temp.png)\
-We will update this repository with the training code.
+We will also plan to update this repository with the training code later.
 
 
 ```
