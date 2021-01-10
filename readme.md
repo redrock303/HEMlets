@@ -30,7 +30,7 @@ If you find this code useful for your research, please consider citing the follo
    @article{zhou2020hemlets,
      title           = {HEMlets PoSh: Learning Part-Centric Heatmap Triplets for 3D Human Pose and Shape  Estimation},
      Author          = {Kun Zhou, Xiaoguang Han, Nianjuan Jiang, Kui Jia, Jiangbo Lu},
-     Journal         = {TPAMI},
+     Journal         = {IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI)},
      Year            = {2021}
     }
 
