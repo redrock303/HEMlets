@@ -20,18 +20,18 @@ We will also plan to update this repository with the training code later.
 
 ### Citing
 If you find this code useful for your research, please consider citing the following paper:
-	@Inproceedings{zhou2019hemlets,
-	  Title          = {HEMlets Pose: Learning Part-Centric Heatmap Triplets for Accurate 3D Human Pose Estimation},
-	  Author         = {Kun Zhou, Xiaoguang Han, Nianjuan Jiang, Kui Jia, Jiangbo Lu},
-	  Booktitle      = {International Conference on Computer Vision (ICCV)},
-	  Year           = {2019}
-	}
+   @Inproceedings{zhou2019hemlets,
+     Title          = {HEMlets Pose: Learning Part-Centric Heatmap Triplets for Accurate 3D Human Pose Estimation},
+     Author         = {Kun Zhou, Xiaoguang Han, Nianjuan Jiang, Kui Jia, Jiangbo Lu},
+     Booktitle      = {International Conference on Computer Vision (ICCV)},
+     Year           = {2019}
+   }
 
-	@article{zhou2020hemlets,
-    title           = {HEMlets PoSh: Learning Part-Centric Heatmap Triplets for 3D Human Pose and Shape  Estimation},
-    Author          = {Kun Zhou, Xiaoguang Han, Nianjuan Jiang, Kui Jia, Jiangbo Lu},
-    Journal         = {TPAMI},
-    Year            = {2021}
+   @article{zhou2020hemlets,
+     title           = {HEMlets PoSh: Learning Part-Centric Heatmap Triplets for 3D Human Pose and Shape  Estimation},
+     Author          = {Kun Zhou, Xiaoguang Han, Nianjuan Jiang, Kui Jia, Jiangbo Lu},
+     Journal         = {TPAMI},
+     Year            = {2021}
     }
 
 ### Notices
