@@ -1,7 +1,7 @@
 # HEMlets Pose: Learning Part-Centric Heatmap Triplets for Accurate 3D Human Pose Estimation
 ## Kun Zhou, Xiaoguang Han, Nianjuan Jiang, Kui Jia, Jiangbo Lu
 
-This is the office implementation of **HEMlets PoSh: Learning Part-Centric Heatmap Triplets for 3D Human Pose and Shape Estimation**. Please follow the links to read our [ICCV'19](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhou_HEMlets_Pose_Learning_Part-Centric_Heatmap_Triplets_for_Accurate_3D_Human_ICCV_2019_paper.pdf), [TPAMI'21](https://arxiv.org/pdf/2003.04894v3.pdf) and visit the corresponding [project page](https://sites.google.com/site/hemletspose/).
+Here we provide our implementation of **HEMlets PoSh: Learning Part-Centric Heatmap Triplets for 3D Human Pose and Shape Estimation**. Please follow the links to read our [ICCV'19](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhou_HEMlets_Pose_Learning_Part-Centric_Heatmap_Triplets_for_Accurate_3D_Human_ICCV_2019_paper.pdf), [TPAMI'21](https://arxiv.org/pdf/2003.04894v3.pdf) and visit the corresponding [project page](https://sites.google.com/site/hemletspose/).
 
 We provide quick inference code to validate and visualize our results on [Human3.6M](http://vision.imar.ro/human3.6m/description.php). Brief runing instructions are given below.
 1. Pre installation\
